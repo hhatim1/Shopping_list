@@ -1,0 +1,17 @@
+body {
+    background-color: lightgrey;
+}
+
+.form-group {
+    text-align: left;
+}
+
+fieldset {
+    display: inline-block;
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    padding: 25px;
+    vertical-align: top;
+    margin: 25px;
+}
